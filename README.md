@@ -1,2 +1,2 @@
-# thefundamentaltheor3m.github.io
+# Sidharth Hariharan
 My website!
